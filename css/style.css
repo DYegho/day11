@@ -26,6 +26,7 @@ body{
     font-size: 15px;
     font-family: var(--lexend-family);
     background: var(--veryLightGray);
+    overflow:hidden;
 }
 .container{
     width: 325px;
